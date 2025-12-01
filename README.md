@@ -4,7 +4,8 @@
 # Dashboard Preview
 
 ![Sales Dashboard Overview](Screenshot%20(44).png)
-(Screenshot%20(45).png)
+![Category and Region Filters](Screenshot%20(45).png)
+
 ---
 
 # Project Overview
