@@ -1,29 +1,29 @@
 # Sales Performance Dashboard
 
-**Interactive End-to-End Sales Analysis using Power BI**
-# Dashboard Preview
+Interactive End-to-End Sales Analysis using Power BI
 
-![Sales Dashboard Overview](Screenshot%20(44).png)
-![Category and Region Filters](Screenshot%20(45).png)
-
----
 
 # Project Overview
 - Built a visually interactive sales dashboard to analyze, track, and present e-commerce business performance.
 - Enables quick insights into sales, profit, quantity, and top products.
 
----
+
+# Dashboard Preview
+
+![Sales Dashboard Overview](Screenshot%20(44).png)
+
+
 
 # Dataset
 - **Sample Superstore** dataset (50,000+ rows, multiple regions & products)
 
----
+
 
 # Tools & Technologies
 - Power BI Desktop
 - Microsoft Excel (for initial data cleaning)
 
----
+
 
 # Key Features
 - **KPI Cards:** Real-time Total Sales, Total Quantity, Total Profit
@@ -41,7 +41,7 @@
 - Reduced reporting time by automated interactive dashboard
 
 
----
+
 
 # How to Use
 1. Open `.pbix` file in Power BI Desktop or view on Power BI Service via the live link
@@ -49,4 +49,3 @@
 3. Search for products using the right filter pane
 4. Use the main KPIs and table to answer key business queries
 
----
