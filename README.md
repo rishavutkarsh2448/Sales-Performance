@@ -1,6 +1,9 @@
 # Sales Performance Dashboard
 
 **Interactive End-to-End Sales Analysis using Power BI**
+# Dashboard Preview
+
+![Sales Dashboard Overview](dashboard-overview.png)
 
 ---
 
