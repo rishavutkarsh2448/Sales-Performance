@@ -10,7 +10,7 @@ Interactive End-to-End Sales Analysis using Power BI
 
 # Dashboard Preview
 
-![Sales Dashboard Overview](Screenshot%20(44).png)
+![Sales Dashboard Overview](images/Screenshot%20(44).png)
 
 
 
